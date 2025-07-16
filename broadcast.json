@@ -1,0 +1,8 @@
+{
+  "send": true,
+  "message": "📢 New music drop! 🔥",
+  "attachment": {
+    "type": "audio",
+    "url": "https://example.com/audio.mp3"
+  }
+}
