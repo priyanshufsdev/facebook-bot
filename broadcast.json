@@ -1,5 +1,5 @@
 {
-  "send": false,
+  "send": true,
   "message": "📢 New music drop! 🔥",
   "attachment": {
     "type": "",
